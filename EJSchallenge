@@ -1,0 +1,5 @@
+let obj = "#";
+while ( obj.length <=7 ){
+console.log(obj);
+  obj += "#";
+}
